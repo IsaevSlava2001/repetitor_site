@@ -9,7 +9,6 @@
 <body>
     <?php
     include 'headfoot/header.php';
-    вывод
     ?>
 </body>
 </html>
