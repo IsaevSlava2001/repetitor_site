@@ -50,6 +50,5 @@
     <a href="../journal.php">Журнал</a>
     <a href="../materials.php">Список материалов</a>
     <!-----------------!-->
-
 </body>
 </html>
