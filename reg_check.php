@@ -1,3 +1,5 @@
 <?php
-echo "some word";
+$name=$_POST['name'];
+$surname=$_POST['famil'];
+echo $name;
 ?>
